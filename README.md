@@ -1,5 +1,7 @@
 A program to test the implementation of triangles using pytest. 
 
+
+In the first screenshot, as there are no discrepancies detected during program run, the program effectively passes all the test cases. 
 <img width="960" alt="Screenshot 2024-01-29 131912" src="https://github.com/sidhdhuk09/SSW-567-Testing-Triangles-using-Pytest/assets/76087316/091363b0-fa65-438d-bf81-1ff0d9c70baf">
 
 <img width="960" alt="Screenshot 2024-01-29 132022" src="https://github.com/sidhdhuk09/SSW-567-Testing-Triangles-using-Pytest/assets/76087316/38b7a32c-24d3-4798-bdaf-a54999c22607">
